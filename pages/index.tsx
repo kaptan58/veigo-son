@@ -1,1 +1,1 @@
-// example content
+<div className='p-4'>Dashboard is working</div>
