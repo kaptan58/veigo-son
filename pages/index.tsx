@@ -1,0 +1,1 @@
+export default function Home() { return <div className="p-10 font-bold">🎉 VEIGO Admin Panel – Yönetim Ekranı</div>; }

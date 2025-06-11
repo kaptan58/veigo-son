@@ -1,0 +1,1 @@
+export function StatsCard() { return <div className="shadow p-5 bg-white rounded-lg">İstatistik Kartı</div>; }
