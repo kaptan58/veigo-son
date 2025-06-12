@@ -1,1 +1,1 @@
-<div className='p-4'>Dashboard is working</div>
+// Sample content for index.tsx
